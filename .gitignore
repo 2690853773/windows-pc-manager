@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.vscode/
+.pytest_cache/
+build/
+dist/
+*.spec
+*.log
+*.tmp
+*.bak
+.venv/
+要求.txt
